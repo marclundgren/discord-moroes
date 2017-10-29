@@ -1,0 +1,21 @@
+{
+  "name": "moroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Lundgren",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "install": "^0.10.1",
+    "moment": "^2.19.1",
+    "npm": "^5.5.1",
+    "pg": "^7.3.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.15.2",
+    "winston": "^2.4.0"
+  }
+}
